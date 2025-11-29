@@ -62,13 +62,23 @@ morocco-map/
 
 clone the repository:
 <pre> 
-   git clone https://github.com/YsfElm01/Morocco-Map-Data-Visualizer.git
-   cd morocco-map
+   git clone https://github.com/YsfElm01/MoroccoGeoViz.git
+   cd MoroccoGeoViz
 
 </pre> 
 
 Pour lancer l’exemple interactif :
 <pre> npm run example</pre> 
+
+choisit ce lien pour afficher la page directement : http://127.0.0.1:8081
+
+"Explorer la carte en cliquant sur chaque région pour voir les visualisations."
+
+<img src="https://cdn.jsdelivr.net/npm/morocco-map/img/viz_fes.png" width="480">
+<img src="https://cdn.jsdelivr.net/npm/morocco-map/img/viz_rabat.png" width="480">
+<img src="https://cdn.jsdelivr.net/npm/morocco-map/img/viz_rabat.png" width="480">
+<img src="https://cdn.jsdelivr.net/npm/morocco-map/img/viz_kech.png" width="480">
+
 
 
 ### If it works, don't ask why 😀 🗺️
