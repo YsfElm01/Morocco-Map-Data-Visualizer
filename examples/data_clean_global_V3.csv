@@ -1,0 +1,163 @@
+region,province,milieu,type_centre,propriete,superficie_m2,etat_centre,province_id
+Tanger-Tétouan-Al Hoceïma,Al Hoceima,Rural,CSP,MJCC,2,Opérationnel,MA-HOC
+Tanger-Tétouan-Al Hoceïma,Al Hoceima,Rural,CSP,MJCC,2,Opérationnel,MA-HOC
+Tanger-Tétouan-Al Hoceïma,Al Hoceima,Rural,CSP,MJCC,2,Opérationnel,MA-HOC
+Tanger-Tétouan-Al Hoceïma,Al Hoceima,Rural,CSP,MJCC,2,Opérationnel,MA-HOC
+Tanger-Tétouan-Al Hoceïma,Tanger- Assilah,Urbain,CSP A,MJCC,3200,Opérationnel,MA-TNG
+Tanger-Tétouan-Al Hoceïma,Chefchaouen,Rural,CSPI,NON,7000,Opérationnel,MA-CHE
+Tanger-Tétouan-Al Hoceïma,Chefchaouen,Rural,CSPI,NON,9000,Opérationnel,MA-CHE
+Tanger-Tétouan-Al Hoceïma,Larache,Rural,CSPI,Domaine Communal,3000,Opérationnel,MA-LAR
+Tanger-Tétouan-Al Hoceïma,Larache,Urbain,CSPI,Domaine Communal,4800,Opérationnel,MA-LAR
+Souss-Massa,AGADIR IDA OUTANANE,Urbain,CSP A,Al Omrane,2,En aménagement,MA-AGD
+Souss-Massa,Chtouka Ait Baha,Rural,CSP B,Commune,2,En aménagement,MA-CHT
+Souss-Massa,AGADIR IDA OUTANANE,Rural,CSP B,Commune,3700,En aménagement,MA-AGD
+Souss-Massa,Taroudant,Urbain,CSP B,Lot Communal,2,En aménagement,MA-TAR
+Souss-Massa,Taroudant,Rural,CSP A,Lot Communal,2,Opérationnel,MA-TAR
+Souss-Massa,TATA,Urbain,CSP B,MJCC,2,En aménagement,MA-TAT
+Souss-Massa,TIZNIT,Rural,CSP A,Domaine de l'État,2,En aménagement,MA-TIZ
+Souss-Massa,TIZNIT,Rural,CSP B,Domaine de l'État,2,En aménagement,MA-TIZ
+Fès-Meknès,Fès,Urbain,CSP A,MJCC,2,Opérationnel,MA-FES
+Fès-Meknès,Fès,Urbain,CSP A,MJCC,2,Opérationnel,MA-FES
+Fès-Meknès,Fès,Urbain,CSP A,MJCC,2,Opérationnel,MA-FES
+Fès-Meknès,IFRANE,Urbain,CSP A,NON,2,Opérationnel,MA-IFR
+Fès-Meknès,IFRANE,Urbain,CSP A,NON,2,Opérationnel,MA-IFR
+Fès-Meknès,IFRANE,Rural,CSP A,NON,2,Opérationnel,MA-IFR
+Fès-Meknès,IFRANE,Rural,CSP A,NON,2,Opérationnel,MA-IFR
+Fès-Meknès,IFRANE,Rural,CSP A,NON,2,Opérationnel,MA-IFR
+Fès-Meknès,IFRANE,Rural,CSP A,NON,2,Opérationnel,MA-IFR
+Fès-Meknès,Moulay Yacoub,Rural,CSP A,NON,400,Opérationnel,MA-MOU
+Fès-Meknès,Moulay Yacoub,Rural,CSP A,Commune,600,Opérationnel,MA-MOU
+Fès-Meknès,Taounate,Rural,CSP,MJCC,2,Opérationnel,MA-TAO
+Fès-Meknès,Taounate,Urbain,CSP,MJCC,2,Opérationnel,MA-TAO
+Fès-Meknès,Taounate,Rural,CSP,MJCC,2,Opérationnel,MA-TAO
+Fès-Meknès,el hajeb,Urbain,CSP,MJCC,2,Opérationnel,MA-HAJ
+Fès-Meknès,Mèknes,Urbain,CSP,Commune,2,Opérationnel,MA-MEK
+Fès-Meknès,Mèknes,Urbain,CSP,NON,2,Opérationnel,MA-MEK
+Fès-Meknès,Mèknes,Rural,CSP,Commune,2,Opérationnel,MA-MEK
+Fès-Meknès,Mèknes,Urbain,CSP,Commune,2,Opérationnel,MA-MEK
+Rabat-Salé-Kénitra,Kénitra,Urbain,CSPI A,Collectif,6000,Opérationnel,MA-KEN
+Rabat-Salé-Kénitra,Kénitra,Urbain,CSPI A,Maritime,6000,Quasi-opérationnel,MA-KEN
+Rabat-Salé-Kénitra,Kénitra,Urbain,CSPI A,Al Omrane,6000,Quasi-opérationnel,MA-KEN
+Rabat-Salé-Kénitra,Kénitra,Urbain,CSPI B,Collectif,6000,Opérationnel,MA-KEN
+Rabat-Salé-Kénitra,Kénitra,Urbain,CSPI A,Collectif,6000,Quasi-opérationnel,MA-KEN
+Rabat-Salé-Kénitra,Kénitra,Urbain,CSPI B,Al Omrane,6000,Opérationnel,MA-KEN
+Rabat-Salé-Kénitra,Kénitra,Urbain,CSPI B,Collectif,3500,Opérationnel,MA-KEN
+Rabat-Salé-Kénitra,Kénitra,Urbain,CSPI C,Domaine Communal,3600,Opérationnel,MA-KEN
+Rabat-Salé-Kénitra,khemisset,Urbain,CSP B,Commune,2938,Quasi-opérationnel,MA-KHE
+Rabat-Salé-Kénitra,khemisset,Rural,CSP B,Commune,4080,Quasi-opérationnel,MA-KHE
+Rabat-Salé-Kénitra,khemisset,Urbain,CSP B,Commune,5000,Opérationnel,MA-KHE
+Rabat-Salé-Kénitra,khemisset,Rural,CSP B,Commune,3243,Opérationnel,MA-KHE
+Rabat-Salé-Kénitra,khemisset,Rural,CSP B,NON,2,Non opérationnel,MA-KHE
+Rabat-Salé-Kénitra,khemisset,Rural,CSP A,NON,5953,Opérationnel,MA-KHE
+Rabat-Salé-Kénitra,Rabat,Urbain,CSP A,MJCC,2,Non opérationnel,MA-RAB
+Rabat-Salé-Kénitra,Rabat,Urbain,CSP A,MJCC,2,Opérationnel,MA-RAB
+Rabat-Salé-Kénitra,Rabat,Urbain,CSP A,MJCC,2,Opérationnel,MA-RAB
+Rabat-Salé-Kénitra,Salé,Urbain,CSP A,MJCC,4000,Opérationnel,MA-SAL
+Rabat-Salé-Kénitra,Salé,Urbain,CSP A,MJCC,4476,Opérationnel,MA-SAL
+Rabat-Salé-Kénitra,Salé,Urbain,CSP A,MJCC,3451,Opérationnel,MA-SAL
+Rabat-Salé-Kénitra,Skhirat Temara,Rural,CSP A,Tamassna,20000,Opérationnel,MA-SKH
+Marrakech-Safi,El Kalaa des Sraghna,Urbain,CSP B,MJCC,2,Opérationnel,MA-KES
+Marrakech-Safi,El Kalaa des Sraghna,Urbain,CSP B,MJCC,2,Opérationnel,MA-KES
+Marrakech-Safi,El Kalaa des Sraghna,Urbain,CSP B,MJCC,2,Quasi-opérationnel,MA-KES
+Marrakech-Safi,El Kalaa des Sraghna,Urbain,CSP B,MJCC,2,Quasi-opérationnel,MA-KES
+Marrakech-Safi,YOUSSOUFIA,Urbain,CSP C,Commune,2000,Quasi-opérationnel,MA-YUS
+Marrakech-Safi,Al Haouz,Urbain,CSP A,MJCC,6300,Opérationnel,MA-HAO
+Marrakech-Safi,Essaouira,Urbain,CSP B,NON,2890,Opérationnel,MA-ESI
+Marrakech-Safi,Essaouira,Rural,CSP B,NON,3764,Opérationnel,MA-ESI
+Marrakech-Safi,Essaouira,Rural,CSP C,Domaine Communal,3557,Opérationnel,MA-ESI
+Marrakech-Safi,Essaouira,Rural,CSP C,Domaine Communal,3557,Opérationnel,MA-ESI
+Marrakech-Safi,Safi,Urbain,CSP A,Domaine Communal,1,Opérationnel,MA-SAF
+Marrakech-Safi,chichaoua,Urbain,CSP A,MJCC,5613,Opérationnel,MA-CHI
+L'Oriental,Oujda Angad / Taourirte,Urbain,CSP B,Commune,2,Opérationnel,MA-OUJ
+L'Oriental,Oujda Angad / Taourirte,Urbain,CSP B,Commune,2,Opérationnel,MA-OUJ
+L'Oriental,Oujda Angad / Taourirte,Urbain,CSP B,Commune,2,Opérationnel,MA-OUJ
+L'Oriental,Oujda Angad / Taourirte,Urbain,CSP B,MJCC,2,Opérationnel,MA-OUJ
+L'Oriental,Oujda Angad / Taourirte,Urbain,CSP C,Commune,2,Opérationnel,MA-OUJ
+L'Oriental,Oujda Angad / Taourirte,Urbain,CSP C,Commune,2,Opérationnel,MA-OUJ
+L'Oriental,Oujda Angad / Taourirte,Urbain,CSP C,MJCC,2,Opérationnel,MA-OUJ
+L'Oriental,Oujda Angad / Taourirte,Urbain,CSP C,Domaine de l'État,2,Opérationnel,MA-OUJ
+L'Oriental,Oujda Angad / Taourirte,Urbain,CSP C,Domaine de l'État,2,Opérationnel,MA-OUJ
+L'Oriental,Oujda Angad / Taourirte,Urbain,CSP C,Domaine de l'État,2,Opérationnel,MA-OUJ
+L'Oriental,Driouche,Rural,CSP C,Domaine Communal,1056,Opérationnel,MA-DRI
+L'Oriental,Driouche,Urbain,CSP C,Domaine Communal,1056,Opérationnel,MA-DRI
+L'Oriental,Driouche,Urbain,CSP C,Domaine Communal,1056,Opérationnel,MA-DRI
+L'Oriental,Driouche,Rural,CSP C,Domaine Communal,1056,Opérationnel,MA-DRI
+L'Oriental,Driouche,Rural,CSP C,Domaine Communal,1056,Opérationnel,MA-DRI
+L'Oriental,Driouche,Rural,CSP C,Domaine Communal,1056,Opérationnel,MA-DRI
+L'Oriental,Driouche,Rural,CSP C,Domaine Communal,1056,Opérationnel,MA-DRI
+L'Oriental,Driouche,Rural,CSP C,Domaine Communal,1056,Opérationnel,MA-DRI
+Guelmim-Oued Noun (EH-partial),Guelmim,Rural,CSP A,MJCC,2,Quasi-opérationnel,MA-GUE
+Guelmim-Oued Noun (EH-partial),Guelmim,Rural,CSP A,MJCC,2,Quasi-opérationnel,MA-GUE
+Guelmim-Oued Noun (EH-partial),Sidi Ifni,Urbain,CSP A,MJCC,4000,Opérationnel,MA-SIF
+Guelmim-Oued Noun (EH-partial),Sidi Ifni,Rural,CSP A,MJCC,4000,Opérationnel,MA-SIF
+Guelmim-Oued Noun (EH-partial),Sidi Ifni,Urbain,CSP A,MJCC,4000,Opérationnel,MA-SIF
+Guelmim-Oued Noun (EH-partial),Tan-Tan,Urbain,CSP A,MJCC,2,Opérationnel,MA-TNT
+Béni Mellal-Khénifra,Azilal,Rural,CSP C,Commune,2,Opérationnel,MA-AZI
+Béni Mellal-Khénifra,Azilal,Rural,CSP C,Commune,2,Opérationnel,MA-AZI
+Béni Mellal-Khénifra,Béni Mellal,Rural,CSP A,Commune,3303,Non opérationnel,MA-BEM
+Béni Mellal-Khénifra,Fquih Ben Salah,Urbain,CSP C,Domaine Communal,3650,Opérationnel,MA-FQH
+Béni Mellal-Khénifra,Khénifra,Rural,CSP A,MJCC,4000,Opérationnel,MA-KHN
+Béni Mellal-Khénifra,Khénifra,Rural,CSP C,MJCC,2000,Non opérationnel,MA-KHN
+Béni Mellal-Khénifra,KHOURIBGA,Urbain,CSP A,Commune,5540,Non opérationnel,MA-KHO
+Béni Mellal-Khénifra,KHOURIBGA,Rural,CSP C,Commune,4200,Opérationnel,MA-KHO
+Béni Mellal-Khénifra,KHOURIBGA,Urbain,CSP B,Commune,3800,Opérationnel,MA-KHO
+Béni Mellal-Khénifra,KHOURIBGA,Rural,CSP C,Commune,3200,Opérationnel,MA-KHO
+Laâyoune-Sakia El Hamra (EH-partial),Laayoune,Urbain,CSP A,Domaine de l'État,4961,Opérationnel,MA-LAA
+Laâyoune-Sakia El Hamra (EH-partial),Boujdour,Urbain,CSP A,MJCC,5336,Opérationnel,MA-BOD
+Laâyoune-Sakia El Hamra (EH-partial),ES-semara,Urbain,CSP A,MJCC,5568,Opérationnel,MA-ESM
+Laâyoune-Sakia El Hamra (EH-partial),ES-semara,Urbain,CSP A,MJCC,15211,Opérationnel,MA-ESM
+Laâyoune-Sakia El Hamra (EH-partial),ES-semara,Urbain,CSP A,MJCC,19289,Quasi-opérationnel,MA-ESM
+Laâyoune-Sakia El Hamra (EH-partial),Tarfaya,Urbain,CSP A,MJCC,8000,Opérationnel,MA-TAF
+Casablanca-Settat,SETTAT,Urbain,CSP B,MJCC,3000,Opérationnel,MA-SET
+Casablanca-Settat,SETTAT,Rural,CSP B,MJCC,3599,Opérationnel,MA-SET
+Casablanca-Settat,SETTAT,Rural,CSP B,MJCC,4069,Opérationnel,MA-SET
+Casablanca-Settat,SETTAT,Urbain,CSP B,MJCC,2860,Opérationnel,MA-SET
+Casablanca-Settat,SETTAT,Urbain,CSP B,MJCC,3316,Opérationnel,MA-SET
+Casablanca-Settat,Mohammedia,Urbain,CSP A,Domaine Communal,2,Opérationnel,MA-MOH
+Casablanca-Settat,Mohammedia,Urbain,CSP B,Domaine Communal,2,Opérationnel,MA-MOH
+Casablanca-Settat,Berrechid,Urbain,CSP A,NON,2,Opérationnel,MA-BRR
+Casablanca-Settat,El Jadida,Urbain,CSP A,NON,2,Opérationnel,MA-JDI
+Casablanca-Settat,Benslimane,Urbain,CSP A,Al Omrane,6080,Opérationnel,MA-BES
+Casablanca-Settat,Benslimane,Urbain,CSP A,MJCC,5000,Opérationnel,MA-BES
+Casablanca-Settat,Benslimane,Urbain,CSP A,Al Omrane,4690,Opérationnel,MA-BES
+Casablanca-Settat,mediouna,Rural,CSP,NON,2,Opérationnel,MA-MED
+Casablanca-Settat,Ain Chock Hay Hassani Nouaceur,Rural,CSP C,MJCC,9900,Opérationnel,MA-NOU
+Casablanca-Settat,Ain Chock Hay Hassani Nouaceur,Rural,CSP C,Al Omrane,950,Opérationnel,MA-NOU
+Casablanca-Settat,Ain Chock Hay Hassani Nouaceur,Rural,CSP C,MJCC,2384,Opérationnel,MA-NOU
+Casablanca-Settat,Ain Chock Hay Hassani Nouaceur,Rural,CSP C,MJCC,11400,Opérationnel,MA-NOU
+Casablanca-Settat,Ain Chock Hay Hassani Nouaceur,Urbain,CSP C,MJCC,5500,Opérationnel,MA-NOU
+Casablanca-Settat,Ain Chock Hay Hassani Nouaceur,Urbain,CSP C,Commune,2300,Opérationnel,MA-NOU
+Casablanca-Settat,Ain Chock Hay Hassani Nouaceur,Urbain,CSP C,NON,2,Opérationnel,MA-NOU
+Casablanca-Settat,Ain Chock Hay Hassani Nouaceur,Urbain,CSP C,MJCC,1000,Opérationnel,MA-NOU
+Casablanca-Settat,Mohammedia,Urbain,CSP,Commune,5000,Opérationnel,MA-MOH
+Casablanca-Settat,Mohammedia,Urbain,CSP A,Commune,4800,Quasi-opérationnel,MA-MOH
+Casablanca-Settat,Mohammedia,Urbain,CSP A,Domaine de l'État,4000,Opérationnel,MA-MOH
+Casablanca-Settat,Mohammedia,Rural,CSP B,NON,2461,Quasi-opérationnel,MA-MOH
+Casablanca-Settat,Mohammedia,Urbain,CSP A,Domaine de l'État,6312,Opérationnel,MA-MOH
+Casablanca-Settat,Mohammedia,Rural,CSP B,Commune,2160,Quasi-opérationnel,MA-MOH
+Casablanca-Settat,Sidi Bennour,Urbain,CSP A,NON,2,Opérationnel,MA-SIB
+Casablanca-Settat,Sidi Bennour,Urbain,CSP A,NON,2,Quasi-opérationnel,MA-SIB
+Dakhla-Oued Ed-Dahab (EH),Aousserd,Rural,CSP B,MJCC,2,Opérationnel,MA-AOU
+Dakhla-Oued Ed-Dahab (EH),Oued Eddahab,Urbain,CSP B,MJCC,5805,Opérationnel,MA-OUD
+Dakhla-Oued Ed-Dahab (EH),Oued Eddahab,Urbain,CSP B,MJCC,5028,Opérationnel,MA-OUD
+Drâa-Tafilalet,Ouarzazate,Urbain,CSP A,Domaine Communal,3500,Opérationnel,MA-OUA
+Drâa-Tafilalet,Ouarzazate,Rural,CSP A,Domaine Communal,3500,Opérationnel,MA-OUA
+Drâa-Tafilalet,Ouarzazate,Rural,CSP A,Domaine Communal,4000,Opérationnel,MA-OUA
+Drâa-Tafilalet,Ouarzazate,Rural,CSP C,Domaine Communal,6000,Opérationnel,MA-OUA
+Drâa-Tafilalet,Ouarzazate,Rural,CSP C,Domaine Communal,6000,Opérationnel,MA-OUA
+Drâa-Tafilalet,Ouarzazate,Rural,CSP C,Domaine Communal,6000,Opérationnel,MA-OUA
+Drâa-Tafilalet,Ouarzazate,Rural,CSP C,Domaine Communal,6000,Quasi-opérationnel,MA-OUA
+Drâa-Tafilalet,Ouarzazate,Rural,CSP C,Domaine Communal,6000,Opérationnel,MA-OUA
+Drâa-Tafilalet,Ouarzazate,Rural,CSP C,Domaine Communal,6000,Opérationnel,MA-OUA
+Drâa-Tafilalet,Ouarzazate,Urbain,CSP C,Domaine Communal,6000,Opérationnel,MA-OUA
+Drâa-Tafilalet,Ouarzazate,Urbain,CSP C,Domaine Communal,6000,Opérationnel,MA-OUA
+Drâa-Tafilalet,Ouarzazate,Urbain,CSP C,NON,4000,Opérationnel,MA-OUA
+Drâa-Tafilalet,TINGHIR,Urbain,CSP A,MJCC,4000,Opérationnel,MA-TIN
+Drâa-Tafilalet,TINGHIR,Urbain,CSP A,MJCC,5000,Opérationnel,MA-TIN
+Drâa-Tafilalet,TINGHIR,Rural,CSP A,MJCC,6000,Opérationnel,MA-TIN
+Drâa-Tafilalet,ZAGORA,Rural,CSP C,MJCC,1000,Non opérationnel,MA-ZAG
+Drâa-Tafilalet,ZAGORA,Urbain,CSP A,MJCC,1200,Opérationnel,MA-ZAG
+Drâa-Tafilalet,ZAGORA,Urbain,CSP A,MJCC,1200,Opérationnel,MA-ZAG
+Drâa-Tafilalet,Midelt,Rural,CSP,INDH,2,Non opérationnel,MA-MID
+Drâa-Tafilalet,Midelt,Rural,CSP,Domaine Communal,2000,Non opérationnel,MA-MID
+Drâa-Tafilalet,Errachidia,Urbain,CSP B,Domaine Communal,3500,Opérationnel,MA-ERR

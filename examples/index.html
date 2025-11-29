@@ -6,6 +6,8 @@
   <title>Carte du Maroc — Visualisation Régionale</title>
   <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
   <script src="https://unpkg.com/topojson@3"></script>
+  <link rel="icon" type="image/png" href="favicon.png">
+
 
   <style>
     body {
@@ -110,7 +112,8 @@
       border: none;
       border-radius: 5px;
       cursor: pointer;
-      background-color: #007bff;
+      background-color: black;
+      text-decoration: white;
       color: white;
       transition: 0.2s;
     }
@@ -135,8 +138,8 @@
       <svg id="chart" width="700" height="300"></svg>
 
       <div class="pagination">
-        <button id="prev">⬅️ Précédent</button>
-        <button id="next">Suivant ➡️</button>
+        <button id="prev">Précédent</button>
+        <button id="next">Suivant</button>
       </div>
     </div>
   </div>
