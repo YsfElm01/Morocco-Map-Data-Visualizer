@@ -34,8 +34,8 @@ Ce projet permet de visualiser les **régions** et **provinces** du Maroc à l�
 ```plaintext
 morocco-map/
 │
-├── centres_socio_sportif_casa.xlsx   # Données brutes socio-sportives (Casablanca)
-├── Map_maroc_notebook.ipynb          # Notebook de traitement des données brutes
+├── Data_Global_brute.xlsx   # Données brutes socio-sportives (Casablanca)
+├── Notebook_clean_data.ipynb         # Notebook de traitement des données brutes
 ├── package-lock.json
 ├── package.json                       # Dépendances et scripts npm
 ├── readme.md
@@ -46,7 +46,7 @@ morocco-map/
 │   └── regions.json
 │
 ├── examples/                          # Exemples interactifs (HTML/JS)
-│   ├── dataset_casa_clean1.csv
+│   ├── data_centres_socio_sportifs.csv
 │   ├── index.html                      # Interface utilisateur
 │   ├── index.js                        # Logique de l'application
 │   ├── provinces.html
@@ -62,7 +62,7 @@ morocco-map/
 
 clone the repository:
 <pre> 
-   git clone https://github.com/YsfElm01/nachat_l3ilmi.git
+   git clone https://github.com/YsfElm01/Morocco-Map-Data-Visualizer.git
    cd morocco-map
 
 </pre> 
